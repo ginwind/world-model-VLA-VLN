@@ -1,0 +1,1 @@
+CoT-VLA Visual Chain-of-Thought Reasoning for Vision-Language-Action Models
