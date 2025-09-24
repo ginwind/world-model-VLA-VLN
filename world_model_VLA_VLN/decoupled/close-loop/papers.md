@@ -13,4 +13,6 @@ Object-Centric World Model：采用slot-based表示进行对象级预测，支�
 -insight：闭环方法的优势在于其更强的泛化能力和在线适应性，尤其在面对非结构化环境任务、复杂物理交互或长时序规划时表现更优。然而，这类方法通常训练成本更高，需要的反应频率更快，系统设计更复杂，对世界模型的准确性和稳定性要求也更高。
 
 
+VLN-WM:
+
 MindJourney Test-Time Scaling with World Models for Spatial Reasoning
